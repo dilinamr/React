@@ -1,0 +1,31 @@
+  .navbar{
+    background-color: rgb(41, 41, 41);
+    height: 60px;
+  }
+  .navbar-brand{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .navbar-brand a{
+    color: #ffffff !important;
+  }
+  .navbar-brand img{
+    margin-right: 15px;
+  }
+  .dropdown img{
+    width: 40px;
+    border-radius: 20px;
+    
+  }
+  
+  .btn.profile.btn-circle:focus {
+    outline: none; /* Remove the default focus outline */
+    box-shadow: none; /* Remove any box shadow on focus */
+    border: none; /* Remove the border */
+  }
+  .na{
+    color: #fff!important;
+    text-align: center!important;
+    font-size: x-large!important; 
+  }
